@@ -27,7 +27,6 @@ dist-ssr
 out/
 build/
 .env*.local
-config.bat
 
 # Environment files (re-added after malware removal)
 .env
